@@ -408,6 +408,7 @@ abstract class AbstractConnection extends AbstractChannel
         $this->method_queue = [];
         $this->setIsConnected(false);
         $this->close_input();
+        $this->closeChannels();
         $this->close_socket();
     }
 
