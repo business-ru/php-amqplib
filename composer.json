@@ -1,5 +1,5 @@
 {
-    "name": "php-amqplib/php-amqplib",
+    "name": "business-ru/php-amqplib",
     "replace": {
         "videlalvaro/php-amqplib": "self.version"
     },
@@ -9,23 +9,7 @@
     "homepage": "https://github.com/php-amqplib/php-amqplib/",
     "authors": [
         {
-            "name": "Alvaro Videla",
-            "role": "Original Maintainer"
-        },
-        {
-            "name": "Raúl Araya",
-            "email": "nubeiro@gmail.com",
-            "role": "Maintainer"
-        },
-        {
-            "name": "Luke Bakken",
-            "email": "luke@bakken.io",
-            "role": "Maintainer"
-        },
-        {
-            "name": "Ramūnas Dronga",
-            "email": "github@ramuno.lt",
-            "role": "Maintainer"
+            "name": "Business.RU"
         }
     ],
     "require": {
